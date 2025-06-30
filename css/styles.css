@@ -1,0 +1,109 @@
+@media  (min-width: 320px ), (max-width: 375px) {
+
+     .review-section {
+          height: 400px;
+          background-color: #121212;
+     }
+
+     .review-header {
+          width: 100;
+          height: 32;
+
+          color: #ffffff;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 28px;
+          line-height: 32px;
+          letter-spacing: -4%;
+
+          padding: 0;
+          margin: 60px 0 60px 20px;
+     }
+
+     .review-box {
+          width: 335px;
+          height: 244px;
+          border: 1px solid #ffffff;
+          border-radius: 12px;
+          margin: 0 20px 20px 20px;
+
+
+     }
+
+     .review-credential {
+          display: flex;
+          gap: 20px;
+          align-items: center;
+          padding-top: 20px;
+          padding-left: 20px;
+
+          width: 335;
+          height: 244;
+          top: 72px;
+
+     }
+
+     .review-text-box {
+          display: flex;
+          flex-direction: column;
+          gap: 4px;
+     }
+
+     .abaraham-credential {
+          padding: 0;
+          margin: 0;
+
+          height: 24px;
+          color: #ffffff;
+          font-family: DM Sans;
+          font-weight: 500px;
+          font-size: 20px;
+          line-height: 24px;
+          letter-spacing: 0%;
+
+     }
+
+     .abraham-picture {
+          background-color: black;
+          border-radius: 50px;
+          padding: 0;
+          width: 56px;
+          height: 56px;
+     }
+
+     .review-title {
+          width: 43px;
+          height: 16px;
+          padding: 0;
+          margin: 0;
+          color: #898989;
+          font-family: DM Sans;
+          font-weight: 400px;
+          font-size: 12px;
+          line-height: 16px;
+          letter-spacing: -2%;
+
+     }
+
+     .reviews-stars {
+          width: 96px;
+          height: 16px;
+          margin-left: 96px;
+          margin-top: 4px;
+     }
+
+     .review-text {
+          font-family: DM Sans;
+          font-weight: 400;
+          font-size: 14px;
+          line-height: 18px;
+          letter-spacing: -2%;
+          color: #ffffff;
+          width: 295px;
+          height: 108px;
+          top: 188px;
+          left: 20px;
+          margin: 20px;
+
+     }
+}
